@@ -149,11 +149,6 @@ jupyter notebook Automating_API_Crypto_Pull.ipynb
 - Integrate ML forecasting models
 - Improved data validation and anomaly detection mechanisms
 
----
-
-## License
-
-This project is licensed under the **MIT License** — feel free to fork and expand.
 
 ---
 
